@@ -54,7 +54,7 @@ I hold a **BSc (Hons) in Information Technology (Interactive Media)** and was aw
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/nushkannismi
 - LinkedIn: https://www.linkedin.com/in/nushkhannizme728/
 - Email: contact.nnc.official@gmail.com
 
